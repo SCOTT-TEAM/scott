@@ -1,4 +1,4 @@
-![logo](./public/logo.png)
+![logo](./public/Senges.png)
 
 <p align="center">
   <img src="./public/Setting.png" alt="Setting" width="90%" />
