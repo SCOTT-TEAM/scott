@@ -1,7 +1,7 @@
-![logo](./public/Senges.png)
+![logo](./public/logo.png)
 
 <p align="center">
-  <img src="./public/Setting.png" alt="Setting" width="90%" />
+  <img src="./public/Senges.png" alt="Setting" width="90%" />
 </p>
 <blockquote align="center">
   <strong>"懦夫，救不了罗摩卡"——<em>Laikasro·Wilson</em></strong>
