@@ -1,7 +1,7 @@
 ![logo](./public/logo.png)
 
 <p align="center">
-  <img src="./public/Senges.png" alt="Setting" width="90%" />
+  <img src="./public/Senges.png" by:白临音 alt="Setting" width="90%" />
 </p>
 <blockquote align="center">
   <strong>"真是废物"——<em>Senges·Cole</em></strong>
